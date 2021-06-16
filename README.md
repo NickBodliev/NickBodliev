@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 <h3>🛠 Tech Stack</h3>
 
 ![Java](https://img.shields.io/badge/Java-%23282C34?style=flat-square&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![jQuey](https://img.shields.io/badge/jQuery-%231572B6?style=flat-square&logo=jquery)
 ![Express.js](https://img.shields.io/badge/-Express.js-%23F7DF1C?style=flat-square&logo=express&logoColor=000000&labelColor=%success&color=%success)
