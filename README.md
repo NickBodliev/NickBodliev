@@ -23,23 +23,23 @@ You can click the Preview link to take a look at your changes.
 
 <h3>🛠 Tech Stack</h3>
 
-![Java](https://img.shields.io/badge/Java-%23282C34?style=flat-square&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=%23FFCE5A)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![jQuey](https://img.shields.io/badge/jQuery-%231572B6?style=flat-square&logo=jquery)
-![Express.js](https://img.shields.io/badge/-Express.js-%23F7DF1C?style=flat-square&logo=express&logoColor=000000&labelColor=%success&color=%success)
-![Python](https://img.shields.io/badge/-Python-%23282C34?style=flat-square&logo=python)
-![Liquid](https://img.shields.io/badge/Liquid-%231572B6?style=flat-square&logo=liquid)
+[![Java](https://img.shields.io/badge/Java-%23282C34?style=flat-square&logo=java)](https://docs.oracle.com/javase/tutorial/index.html)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=%23FFCE5A)](https://developer.mozilla.org/en-US/docs/Web/JavaScript?retiredLocale=it)
+[![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)](https://reactjs.org/docs/getting-started.html)
+[![jQuey](https://img.shields.io/badge/jQuery-%231572B6?style=flat-square&logo=jquery)](https://jquery.com/)
+[![Express.js](https://img.shields.io/badge/-Express.js-%23F7DF1C?style=flat-square&logo=express&logoColor=000000&labelColor=%success&color=%success)](https://expressjs.com/)
+[![Python](https://img.shields.io/badge/-Python-%23282C34?style=flat-square&logo=python)](https://docs.python.org/3/)
+[![Liquid](https://img.shields.io/badge/Liquid-%231572B6?style=flat-square&logo=liquid)](https://shopify.dev/docs/themes/liquid/reference)
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+[![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)](https://www.w3schools.com/html/)
+[![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)](https://www.w3schools.com/css/)
+[![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)](https://sass-lang.com/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
 
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-![Shopify](https://img.shields.io/badge/-Shopify-%23F7DF1C?style=flat-square&logo=shopify&logoColor=000000&labelColor=%success&color=%success)
+[![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/docs/git)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/)
+[![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/docs)
+[![Shopify](https://img.shields.io/badge/-Shopify-%23F7DF1C?style=flat-square&logo=shopify&logoColor=000000&labelColor=%success&color=%success)](https://shopify.dev/concepts/shopify-introduction)
 
 <!--
 
