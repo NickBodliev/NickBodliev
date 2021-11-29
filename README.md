@@ -9,7 +9,7 @@ MikeC0xl0ng/MikeC0xl0ng is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h2> 👨🏻‍💻 Hey there! I’m Mykola <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> 👨🏻‍💻 Hey there! I’m Nick <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 [![Website](https://img.shields.io/website?label=mykola-bodliev.com&style=for-the-badge&url=https%3A%2F%2Fdiogobcondeco.com)](https://mykola-bodliev.herokuapp.com/)
