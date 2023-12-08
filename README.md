@@ -31,6 +31,7 @@ You can click the Preview link to take a look at your changes.
 [![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)](https://www.w3schools.com/html/)
 [![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)](https://www.w3schools.com/css/)
 [![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)](https://sass-lang.com/)
+[![Tailwind](https://img.shields.io/badge/-Tailwind-%23282C34?style=flat-square&logo=tailwindcss)](https://tailwindcss.com/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
 
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/docs/git)
