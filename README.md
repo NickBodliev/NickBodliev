@@ -14,11 +14,9 @@ You can click the Preview link to take a look at your changes.
 
 [![Website](https://img.shields.io/website?label=mykola-bodliev.com&style=for-the-badge&url=https%3A%2F%2Fdiogobcondeco.com)](https://mykola-bodliev.herokuapp.com/)
 
-- 🌍 Web Developer | Shopify 
-- 🎓 &nbsp; Studying Computer Science by ITT TITO Sarrocchi, Italy 
-- Currently working with a company and improving my Shopify skills
+- 🌍   Full-stack developer | Shopify 
+- 💼   Work at Eight
 - 🤔   Exploring new technologies and quick hacks and making boring stuffs automated
-- 💼   Shopify web developer
 
 
 <h3>🛠 Tech Stack</h3>
